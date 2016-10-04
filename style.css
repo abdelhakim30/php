@@ -1,0 +1,57 @@
+
+.page{
+    width:900px;
+    margin: auto;
+    font-family: ' source sans pro', calibri, tahama, sans-ser
+    font-size:16px;
+    background : #F5F5F5;
+}
+
+.entreprise{
+    float:left;}
+
+.entreprise{
+    margin-left:150px;
+    margin-top: 40px;
+}
+.dates{
+
+   	float:left;
+    font-weight:bold;
+    font-size: 15px;
+    margin-top: 40px;
+    
+    }
+
+.formation{
+    margin-left:150px;
+     margin-top: 40px;
+   }
+  .dates2{
+    float:left;
+    font-weight:bold;
+    font-size: 15px;
+    margin-top: 40px;
+    }
+
+  .mcd{
+    float:left;
+    margin-top: 40px;
+
+  }
+
+
+.gt{
+  font-size:28px;
+  color: #3388bb;
+  border-bottom: 3px solid #3388dd;
+}
+.titre{
+  font-weight: bold;
+  font-size: 17px;
+}
+
+#forma-gauche p {
+  margin-bottom: 10px
+
+}
